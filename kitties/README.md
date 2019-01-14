@@ -2,6 +2,7 @@
 
 100x100:
 
+![](100x100/fancy-aeoncat.png)
 ![](100x100/fancy-atlas.png)
 ![](100x100/fancy-berry.png)
 ![](100x100/fancy-boot-belgium.png)
@@ -38,6 +39,7 @@
 ![](100x100/fancy-goldendogcat.png)
 ![](100x100/fancy-goldendragoncat.png)
 ![](100x100/fancy-honu.png)
+![](100x100/fancy-hypurrion.png)
 ![](100x100/fancy-kittypride.png)
 ![](100x100/fancy-knightkitty.png)
 ![](100x100/fancy-lilbub.png)
@@ -68,6 +70,7 @@
 ![](100x100/fancy-stitches.png)
 ![](100x100/fancy-swish.png)
 ![](100x100/fancy-tabby.png)
+![](100x100/fancy-tallythepurrocious.png)
 ![](100x100/fancy-vernon.png)
 ![](100x100/fancy-victoire.png)
 ![](100x100/fancy-vulcant.png)
@@ -77,6 +80,7 @@
 
 200x200:
 
+![](200x200/fancy-aeoncat.png)
 ![](200x200/fancy-atlas.png)
 ![](200x200/fancy-berry.png)
 ![](200x200/fancy-boot-belgium.png)
@@ -113,6 +117,7 @@
 ![](200x200/fancy-goldendogcat.png)
 ![](200x200/fancy-goldendragoncat.png)
 ![](200x200/fancy-honu.png)
+![](200x200/fancy-hypurrion.png)
 ![](200x200/fancy-kittypride.png)
 ![](200x200/fancy-knightkitty.png)
 ![](200x200/fancy-lilbub.png)
@@ -143,6 +148,7 @@
 ![](200x200/fancy-stitches.png)
 ![](200x200/fancy-swish.png)
 ![](200x200/fancy-tabby.png)
+![](200x200/fancy-tallythepurrocious.png)
 ![](200x200/fancy-vernon.png)
 ![](200x200/fancy-victoire.png)
 ![](200x200/fancy-vulcant.png)
