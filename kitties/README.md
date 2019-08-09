@@ -2,6 +2,7 @@
 
 100x100:
 
+![](100x100/fancy-#30furry.png)
 ![](100x100/fancy-aeoncat.png)
 ![](100x100/fancy-al.png)
 ![](100x100/fancy-ande.png)
@@ -99,6 +100,7 @@
 
 200x200:
 
+![](200x200/fancy-#30furry.png)
 ![](200x200/fancy-aeoncat.png)
 ![](200x200/fancy-al.png)
 ![](200x200/fancy-ande.png)
